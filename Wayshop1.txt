@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link
+        href="style.css" type="text/css" rel="stylesheet">
+        <title>
+         TheWayShop
+        </title>
+    </head>
+    <body>
+        <div class="a"> </div>
+        <div class="b">
+          <div class="xx"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLN3dd5JJynGYwa5kKKZ_DGkRvWdpJDXpfIj2BkIJqqKHr0g7uzQ"/></div>
+           <div class="yy"><h2 class="d">THEWAYSHOP</h2>
+            <h4>Enjoy The Shopping</h4></div>
+            <div class="zz">
+                <div class="ww"><h2>Home</h2></div>
+                <div class="ww"><h2>About Us</h2></div>
+                <div class="ww"><h2>Product</h2></div>
+                <div class="ww"><h2>Shop</h2></div>
+                <div class="ww"><h2>Our Service</h2></div>
+                <div class="ww"><h2>Contact Us</h2></div>
+            </div>
+        </div>
+    <div class="c">
+        <h1>Welcome TO 
+            TheWayShop
+        </h1>
+        <h4>See how your users experience your website in realtime or view
+                trends to see any changes in performance over time.</h4>        
+    </div>
+    <div class="e">
+        <div class="f"><img class="resize" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyi6ypCgubQ07_3sqeqsINnqrtZhFPGJGJtQloo4-E1LEG18u"></div>
+        <div class="f"><img class="resize" src="https://cdn.shopify.com/s/files/1/0179/8075/products/no-398-bifold-wallet-brown-leather-lifestyle_large.jpg?v=1571264620"></div>
+        <div class="f"><img class="resize" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWk_K90EOInfDgu4jpDDqhmLXeZErz2tR4ORKlVDo3FsXM5ES"></div>
+        <div class="g"><h3>T-shirts</h3></div>
+        <div class="g"><h3>Wallet</h3></div>
+        <div class="g"><h3>Shoes</h3></div>
+    </div>
+    <div class="h">
+            <div class="f"><img class="resize" src="https://www.allamericanclothing.com/mm5/graphics/00000001/AAGGC12_laydown_255x272.jpg"></div>
+            <div class="f"><img class="resize" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqkhQKlOq14O49HY2-aa7mAzJvFOq7wdRgzINtbRluUPfl-1l"></div>
+            <div class="f"><img class="resize" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLnyX5Bqrl1VpRG2QeTnBLh7dhcaxq8gXDgRA4aTI-7mfmsevTtw"></div>
+            <div class="g"><h3>Shirt</h3></div>
+            <div class="g"><h3>Bag</h3></div>
+            <div class="g"><h3>Women Shoes</h3></div>
+    </div>
+        <h2 class="l">Featured Products</h2>
+        <h4 class="m">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet lacus enim.</h4>
+        <div class="n">
+            <div class="o">All</div>
+            <div class="o">Top Featured</div>
+            <div class="o">Best Seller</div>
+        </div>
+        <div class="p">
+            <div class="men"><h3 class="q">Sale</h3>
+            </div>
+            <div class="women"><h3 class="q">Sale</h3>
+            </div>
+            <div class="bag"><h3 class="q">Sale</h3>
+            </div>
+            <div class="watch"><h3 class="q">Sale</h3>
+            </div>
+            <div class="r">Lorem ipsum dolor sit amet
+                $7.79</div>
+            <div class="r">Lorem ipsum dolor sit amet
+                $9.79</div>
+            <div class="r">Lorem ipsum dolor sit amet
+                $10.79</div>
+            <div class="r">Lorem ipsum dolor sit amet
+                $15.79</div>        
+        </div>
+        <div class="s">
+            <h1 class="l">Latest Blog</h1>
+            <h4 class="m">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet lacus enim.</h4>
+            <div class="t">
+                <div class="clothshop"><img class="abc" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsIfcKWZuC4KYoAKlLRa0yCyZnCs-Zu9AIPuPcL_3SjPKSM_S7g&s"></div>
+                <div class="purse"><img class="abc" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4wGyWZkiAVH5GkGcHF4W7bB2f_hqqYNY7re7w2l-f_Mw8-iCYQ&s"></div>
+                <div class="shoppingbag"><img class="abc" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPFTHNBxeEd-ZfOxenmZpDtbe5CN4zptmEH78OLR1e9MJrgS3"></div>
+                <div class="u"><h2 class="l">Fusce in augue non nisi fringilla</h2>
+                   <h4 class="m"> Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat.
+                     Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</h4></div>
+                <div class="u"><h2 class="l">Fusce in augue non nisi fringilla</h2>
+                    <h4 class="m"> Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat.
+                      Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</h4></div>
+               <div class="u"><h2 class="l">Fusce in augue non nisi fringilla</h2>
+                        <h4 class="m"> Nulla ut urna egestas, porta libero id, suscipit orci. Quisque in lectus sit amet urna dignissim feugiat.
+                          Mauris molestie egestas pharetra. Ut finibus cursus nunc sed mollis. Praesent laoreet lacinia elit id lobortis.</h4></div>
+            </div>
+        </div>    
+        <div class="v">
+            <div class="grid">
+            <div class="w"><img class="size" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE1ofyqTWnGTAU7zX90yIWpMARd2P3o4u3-hkXDwGyf49AbB4qsQ&s"></div>
+            <div class="w"><img class="size" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8yOASWIrY6Cb85jicZ7Z9PPCrHC9VjRSruUVSwCgvlPrX0eO&s"></div>
+            <div class="w"><img class="size" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNKR-FdR0_qoGR_Ks9eQV7ZJLVZgDvUP2tVLLFzsQ6hIeF-SwF&s"></div>
+            <div class="w"><img class="size" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP8k1jCXNcu0KVYisnbKnhfXXTZ_uFC9tlrnUwNTugoH-iVKot&s"></div>
+            <div class="w"><img class="size" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKq3pwiY8tnRHxO4-WsLhra9BtUZbtvpFv8VBq7GiRlnGu5iaO&s"></div>
+            </div>
+        </div>
+        <div class="footer1">
+            <div class="grid1">
+                <div class="x">
+                    <h2 class="y">ABOUT THEWAYSHOP</h2>
+                    <h4 class="mn">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                         Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4>
+                </div>
+                <div class="x">
+                        <h2 class="y">INFORMATION</h2>
+        
+                        <h4 class="z"><ul>
+                                <li>About Us</li>
+                                <li>Customer Service</li> 
+                                <li>Our Sitemap</li>
+                                <li>Terms & Conditions</li>
+                                <li>Privacy Policy</li> 
+                                <li>Delivery Information</li> </h4>
+                      
+                </div>
+                <div class="x">
+                        <h2 class="y">CONTACT US</h2>
+                        
+                        <h4 class="z"><ul>
+                            <li>Address: Room No-735, Radhakrishna Bhawan, IIT Roorkee</li>
+                            <li>Phone: 9639711322</li>
+                            <li>Email: uttkarshsaini10@gmail.com</li>
+                        </ul></h4>
+                        
+                </div>
+            </div>
+        </div>
+        <div class="footer2">All Rights Reserved. © 2045 ThewayShop Design By: HTML Design</div>
+    </body>
+</html>
