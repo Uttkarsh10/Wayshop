@@ -22,7 +22,7 @@ position: fixed;
     display: inline-flex;
     padding: 20px 0px 0px 450px;
 }
-.ww{
+.ww1,.ww2,.ww3,.ww4,.ww5,.ww6{
     padding: 15px;
 }
 .c{
@@ -64,7 +64,7 @@ img{
 .f{
     border: 1px solid black;
 }
-.g{
+.g1,.g2,.g3,.g21,.g22,.g23{
     color: white;
     background-color: red;
     text-align: center;
