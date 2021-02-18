@@ -12,37 +12,18 @@ position: fixed;
 .b{
     display: inline-flex;
     width: 100%;
-    background-color: white;
+    background-color:whitesmoke;
     position: fixed;
 }
+.xx{
+    padding-left: 100px;
+}
 .yy{
-    padding: 30px 0px 0px 0px;
+    padding: 30px 0px 0px 15px;
 }
 .zz{
     display: inline-flex;
-    padding: 20px 0px 0px 450px;*{
-    margin:0;
-    padding:0;
-}
-.a
-{
-height: 50px;
-width: 100%;
-background-color: black;
-position: fixed;
-}
-.b{
-    display: inline-flex;
-    width: 100%;
-    background-color: white;
-    position: fixed;
-}
-.yy{
-    padding: 30px 0px 0px 0px;
-}
-.zz{
-    display: inline-flex;
-    padding: 20px 0px 0px 450px;
+    padding: 20px 0px 0px 200px;
 }
 .ww1,.ww2,.ww3,.ww4,.ww5,.ww6{
     padding: 15px;
@@ -90,7 +71,7 @@ position: fixed;
     padding:150px;
     background-image: url("https://www.heritagepointeofwarren.org/wp-content/uploads/shopping.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 500px;
+    background-size: 100% 1000px;
     text-align: left ;
 }
 .d{
@@ -152,11 +133,15 @@ img{
     margin: 35px 0px 10px 600px;
 
 }
-.o{
+.o,.o1,.o2{
     color:white;
-    background-color: black;
+    background-color:red;
     padding: 15px; 
 }
+.o a{
+    text-decoration: none;
+    color: white;
+}
 .p{
     display: grid;
     height: 350px; width: 1000px;
@@ -190,11 +175,13 @@ img{
     width: 35px;
 }
 .r{
-    background-color:gainsboro;
+    background-color:whitesmoke;
 }
 .s{
-    background-color: gainsboro;
+    background-color:whitesmoke;
     margin: 40px 0px 0px 0px;
+    padding-top: 50px;
+    padding-bottom: 100px;
 }
 .t{
     display: grid;
@@ -237,7 +224,7 @@ img{
     background-color: rgb(37, 35, 35);
     color: white;
     text-align: center;
-    padding: 28px;
+    padding: 28px 28px 5px 28px;
 }
 .grid1{
     display: grid;
@@ -255,7 +242,7 @@ img{
     color: white;
     text-decoration-line: underline;
     text-decoration-color: red; 
-    text-underline-position: ;
+    text-underline-position:unset;
     margin: 10px;
     padding: 5px;
 }
@@ -263,193 +250,11 @@ img{
     color: white;
     padding: 0px 0px 0px 30px;
 }
-.mn{
-    color: white;
-    padding: 0px 0px 0px 15px;
+.z1:hover, .z2:hover, .z3:hover, .z4:hover, .z5:hover, .z6:hover{
+    color:red;
 }
-.abc{
-    height: 240px;
-    width: 350px;
-}
-}
-.ww1,.ww2,.ww3,.ww4,.ww5,.ww6{
-    padding: 15px;
-}
-.c{
-    padding:150px;
-    background-image: url("https://www.heritagepointeofwarren.org/wp-content/uploads/shopping.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% 500px;
-    text-align: left ;
-}
-.d{
-   color: red;
-   text-decoration-line: underline;
-   font-style: italic;
-}
-img{
-    height: 100px;
-    width: 120px;
-}
-.e{
-    display: grid;
-    height: 440px; width: 1100px;
-    grid-template: 400px 40px / 350px 350px 350px;
-    grid-gap: 0px 50px;
-    padding: 50px ;
-    margin: 60px 0px 0px 100px; 
-}
-.h{
-    display: grid;
-    height: 440px; width: 1100px;
-    grid-template: 400px 40px / 350px 350px 350px;
-    grid-gap: 0px 50px;
-    padding: 50px ;
-    margin: 0px 0px 40px 100px;
-}
-.resize{
-    height: 400px;
-    width: 349px;
-}
-.f{
-    border: 1px solid black;
-}
-.g1,.g2,.g3,.g21,.g22,.g23{
-    color: white;
-    background-color: red;
-    text-align: center;
-    padding: 10px;
-    border: 1px solid black;
-}
-.l{
-    color: black;
-    text-align: center;
-    padding: 10px;
-}
-.m{
-    color: gray;
-    text-align: center;
-    padding: 5px;
-}
-.n{
-    display:grid;
-    height: 40px; width:300px;
-    grid-template: 40px/50px 120px 120px;
-    grid-gap: 5px;
-    align-content: center;
-    margin: 35px 0px 10px 600px;
-
-}
-.o{
-    color:white;
-    background-color: black;
-    padding:15px  ; 
-}
-.p{
-    display: grid;
-    height: 350px; width: 1000px;
-    grid-template: 240px 80px/216px 216px 216px 216px;
-    grid-gap: 0px 32px;
-    margin: 60px 120px 0px 240px;
-}
-.men{
-    text-align: left;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPrMNvn4Pd6c9KKTR1OuwWIbAPIQCRtD-LgUKM4acXDe7n0flV");
-    background-repeat: no-repeat;
-}
-.women{
-    text-align: left;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rlZkTYOB3bmuHrBnHsumFcvQuKMLOkKKss16kmCG0jdWV9OAAQ");
-    background-repeat: no-repeat;
-}
-.bag{
-    text-align: left;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVyoMfbiGCV6BCvSab4pmAmAudnob9QoZFqL_PvhnmP50nJTBow");
-    background-repeat: no-repeat;
-}
-.watch{
-    text-align: left;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4OEV50WU-5ZaenyL2DbVqTa77x3S-OLz3FsuMt9ZbNzbdly1hg");
-    background-repeat: no-repeat;
-}
-.q{
-    color: white;
-    background-color: red;
-    width: 35px;
-}
-.r{
-    background-color:gainsboro;
-}
-.s{
-    background-color: gainsboro;
-    margin: 40px 0px 0px 0px;
-}
-.t{
-    display: grid;
-    height: 480px; width: 1150px;
-    grid-template: 240px 160px/350px 350px 350px;
-    grid-gap: 0px 50px;
-    margin: 20px 50px 0px 160px;
-
-}
-.u{
-    background-color: white;
-}
-.v{
-    height:280px; width: 100%;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymdj-sqsKFtruPV4W8m6dIiA67ENJ_IgSgtOKUYyvrTjND3Na&s");
-    background-repeat: no-repeat;
-    background-color: black;
-    background-size: 100% 280px;
-    opacity: 0.9;
-    padding: 1px; 
-}
-.grid{
-    display: grid;
-    height: 200px; width: 100%;
-    grid-template: 200px/20% 20% 20% 20% 20%;
-    grid-gap: 0px;
-    margin: 30px 0px 0px 0px;
-   
-}
-.size{
-    height: 200px; width: 303px;  
-}
-.footer1{
-    height: 300px; width: 100%;
-    background-color: black;
-    padding: 20px 50px 0px 250px; 
-}
-.footer2{
-    height: 60px; width: 100%;
-    background-color: rgb(37, 35, 35);
-    color: white;
-    text-align: center;
-    padding: 28px;
-}
-.grid1{
-    display: grid;
-    height: 300px; width: 1000px;
-    grid-template: 300px/300px 300px 300px;
-    grid-gap: 50px;
-    padding: 20px;
-}
-.x{
-    height: 300px;
-    width: 300px;
-    text-align: left;
-}
-.y{
-    color: white;
-    text-decoration-line: underline;
-    text-decoration-color: red; 
-    text-underline-position: ;
-    margin: 10px;
-    padding: 5px;
-}
-.z{
-    color: white;
-    padding: 0px 0px 0px 30px;
+.z li{
+    padding:5px;
 }
 .mn{
     color: white;
