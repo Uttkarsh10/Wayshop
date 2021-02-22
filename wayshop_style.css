@@ -138,9 +138,11 @@ img{
     background-color:red;
     padding: 15px; 
 }
-.o a{
-    text-decoration: none;
-    color: white;
+#Allid{
+    background-color:red;
+}
+#Allid:active{
+    background-color:black;
 }
 .p{
     display: grid;
