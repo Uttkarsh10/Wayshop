@@ -1,3 +1,13 @@
+function displayAll(){
+    var men  = document.getElementsByClassName("menbox");
+var women  = document.getElementsByClassName("women");
+var bag  = document.getElementsByClassName("bag");
+var watch  = document.getElementsByClassName("watch");
+console.log(men);
+men[0].style.display="none";
+}
+
+
 function paraMouseOver(){
     document.getElementsByClassName("ww1")[0].style.color="red";
 }
@@ -44,7 +54,6 @@ function paraMouseOver6(){
 function onMouseout6(){
     document.getElementsByClassName("ww6")[0].style.color="black";
 }
-
 
 
 
