@@ -136,13 +136,8 @@ img{
 .o,.o1,.o2{
     color:white;
     background-color:red;
+    padding-top: 10px;
     padding: 15px; 
-}
-#Allid{
-    background-color:red;
-}
-#Allid:active{
-    background-color:black;
 }
 .p{
     display: grid;
@@ -155,21 +150,37 @@ img{
     text-align: left;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPrMNvn4Pd6c9KKTR1OuwWIbAPIQCRtD-LgUKM4acXDe7n0flV");
     background-repeat: no-repeat;
+    height: 250px;
+}
+.menbox{
+    display: grid;
+}
+.womenbox{
+    display: grid;
+}
+.bagbox{
+    display: grid;
+}
+.watchbox{
+    display: grid;
 }
 .women{
     text-align: left;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rlZkTYOB3bmuHrBnHsumFcvQuKMLOkKKss16kmCG0jdWV9OAAQ");
     background-repeat: no-repeat;
+    height: 250px;
 }
 .bag{
     text-align: left;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHVyoMfbiGCV6BCvSab4pmAmAudnob9QoZFqL_PvhnmP50nJTBow");
     background-repeat: no-repeat;
+    height: 250px;
 }
 .watch{
     text-align: left;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk4OEV50WU-5ZaenyL2DbVqTa77x3S-OLz3FsuMt9ZbNzbdly1hg");
     background-repeat: no-repeat;
+    height: 250px;
 }
 .q{
     color: white;
@@ -178,6 +189,7 @@ img{
 }
 .r{
     background-color:whitesmoke;
+    height: 100px;
 }
 .s{
     background-color:whitesmoke;
