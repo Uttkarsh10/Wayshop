@@ -1,12 +1,37 @@
+var men  = document.getElementsByClassName("menbox");
+var women  = document.getElementsByClassName("womenbox");
+var bag  = document.getElementsByClassName("bagbox");
+var watch  = document.getElementsByClassName("watchbox");
+
 function displayAll(){
-    var men  = document.getElementsByClassName("menbox");
-var women  = document.getElementsByClassName("women");
-var bag  = document.getElementsByClassName("bag");
-var watch  = document.getElementsByClassName("watch");
-console.log(men);
-men[0].style.display="none";
+    men[0].style.display="";
+    watch[0].style.display="";
+    women[0].style.display="";
+    bag[0].style.display="";
+    document.getElementsByClassName("o")[0].style.backgroundColor="black";
+    document.getElementsByClassName("o1")[0].style.backgroundColor="red";
+    document.getElementsByClassName("o2")[0].style.backgroundColor="red";
 }
 
+function dispalyTopfea(){
+    men[0].style.display="none";
+    watch[0].style.display="none";
+    women[0].style.display="";
+    bag[0].style.display="";
+    document.getElementsByClassName("o1")[0].style.backgroundColor="black";
+    document.getElementsByClassName("o")[0].style.backgroundColor="red";
+    document.getElementsByClassName("o2")[0].style.backgroundColor="red";
+}
+
+function displayBestseller(){
+    women[0].style.display="none";
+    bag[0].style.display="none";
+    men[0].style.display="";
+    watch[0].style.display="";
+    document.getElementsByClassName("o2")[0].style.backgroundColor="black";
+    document.getElementsByClassName("o1")[0].style.backgroundColor="red";
+    document.getElementsByClassName("o")[0].style.backgroundColor="red";
+}
 
 function paraMouseOver(){
     document.getElementsByClassName("ww1")[0].style.color="red";
