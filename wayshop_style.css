@@ -68,11 +68,22 @@ position: fixed;
     padding-bottom: 10px;
 }
 .c{
-    padding:150px;
+    padding:200px;
     background-image: url("https://www.heritagepointeofwarren.org/wp-content/uploads/shopping.jpg");
     background-repeat: no-repeat;
     background-size: 100% 1000px;
-    text-align: left ;
+    color:black;
+}
+.cmain{
+    font-size: 30px;
+}
+.csubmain{
+    font-size: 20px;
+}
+.csubsubmain{
+   font-size: 30px;
+   text-align: right;
+   padding-left: 1000px;
 }
 .d{
    color: red;
