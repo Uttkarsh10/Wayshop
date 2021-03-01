@@ -80,11 +80,6 @@ position: fixed;
 .csubmain{
     font-size: 20px;
 }
-.csubsubmain{
-   font-size: 30px;
-   text-align: right;
-   padding-left: 1000px;
-}
 .d{
    color: red;
    text-decoration-line: underline;
