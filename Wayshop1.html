@@ -1,14 +1,49 @@
+  
 <!DOCTYPE html>
 <html>
     <head>
         <link
         href="style.css" type="text/css" rel="stylesheet">
-        <script type= "text/javascript"  src="wayshop.js"></script>
+        <link type="text/css" rel="stylesheet" href = "jquery.convform.css">
+        <script type= "text/javascript"  src="js/wayshop.js"></script>
+        <script src="https://kit.fontawesome.com/316cc846f7.js" crossorigin="anonymous"></script>
+        <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script type= "text/javascript"  src="js/custom.js"></script>
+        <script type= "text/javascript"  src="js/jquery.convform.js"></script>
+
+
         <title>
          TheWayShop
         </title>
     </head>
     <body>
+
+        <!--Chatbot-->
+        <div class = "chat-icon">
+            <i class="far fa-comment-dots"></i>
+        </div>
+        <div class = "chat-box">
+            <div class = "conv-form-wrapper">
+            <form action="" method="GET" class="hidden">
+                <select name="programmer" data-conv-question="Hello, How can i help you ?">
+                    <option value="yes">Offers</option>
+                    <option value="no">Discount items</option>
+                </select>
+                <div data-conv-fork="programmer">
+                    <div data-conv-case="yes">
+                         <input type="text" data-conv-question="A fellow programmer! Cool." data-no-answer="true">
+                    </div>
+                    <div data-conv-case="no">
+                        <select name="thought" data-conv-question="Have you ever thought about learning? Programming is fun!">
+                            <option value="yes">Yes</option>
+                            <option value="no">No..</option>
+                        </select>
+                    </div>
+                </div>
+            </form>
+        </div>
+        </div>
+
         <div class="a"> </div>
         <div class="b">
           <div class="xx"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLN3dd5JJynGYwa5kKKZ_DGkRvWdpJDXpfIj2BkIJqqKHr0g7uzQ"/></div>
@@ -56,7 +91,7 @@
         <div class="g3" onmouseover="paraMouseOver9()" onmouseout="onMouseout9()"><h3>Shoes</h3></div>
     </div>
     <div class="h">
-            <div class="f"><img class="resize4" src="https://ae01.alicdn.com/kf/HTB1NzQrcpcJL1JjSZFOq6AWlXXai/5XL-Plaid-Shirts-Men-Checkered-Shirt-Brand-2018-New-Fashion-Button-Down-Long-Sleeve-Casual-Shirts.jpg"></div>
+            <div class="f"><img class="resize4" src="https://ae01.alicdn.com/kf/HTB1NzQrcpcJL1JjSZFOq6AWlXXai/5XL-Plaid-Shirts-Men-Checkered-Shirt-Brand-2018-New-Fashion-Button-Down-Long-Sleeve-Casual-Shirts.jpg" alt = "Shirts"></div>
             <div class="f"><img class="resize5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqkhQKlOq14O49HY2-aa7mAzJvFOq7wdRgzINtbRluUPfl-1l"></div>
             <div class="f"><img class="resize6" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLnyX5Bqrl1VpRG2QeTnBLh7dhcaxq8gXDgRA4aTI-7mfmsevTtw"></div>
             <div class="g21" onmouseover="paraMouseOver10()" onmouseout="onMouseout10()"><h3>Shirt</h3></div>
@@ -157,3 +192,15 @@
         <div class="footer2">All Rights Reserved. © 2045 ThewayShop Design By: HTML Design</div>
     </body>
 </html>
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
