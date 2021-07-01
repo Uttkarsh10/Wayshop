@@ -91,7 +91,7 @@ img{
 }
 .e{
     display: grid;
-    height: 440px; width: 1100px;
+    height: 440px; width: 1000px;
     grid-template: 400px 40px / 350px 350px 350px;
     grid-gap: 0px 50px;
     padding: 50px ;
@@ -284,3 +284,40 @@ img{
     height: 240px;
     width: 350px;
 }
+
+/*chatbot*/
+
+.chat-icon
+{
+    position: fixed;
+    right: 30px;
+    bottom: 10px;
+    font-size: 80px;
+    color: black;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.chat-box{
+    position: fixed;
+    right: 20px;
+    bottom: 100px;
+    width: 400px;
+    height: 80vh;
+    background: black;
+    transition: all 0.3s ease-out;
+    transform: scaleY(0);
+}
+
+.chat-box.active{
+    transform: scaleY(1);
+}
+
+.hidden{
+    display: none !important;
+}
+
+#messages{
+    padding: 20px;
+}
+
